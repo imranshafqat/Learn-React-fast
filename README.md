@@ -206,7 +206,7 @@ Here are old methods that even the [official documentation of React](https://rea
 # <a name="Hooks">Hooks</a>
 Hooks let you use state and other React features without writing classes. It is a really new addition.
 <p align="center">
-    <img src="https://github.com/LMOlivera/Learn-React-fast/blob/draft/images/Hook%20example.PNG" alt="Hooks example">
+    <img src="https://github.com/LMOlivera/Learn-React-fast/blob/master/images/Hook%20example.PNG" alt="Hooks example">
   </p>
 
 Hooks are difficult for some people to understand, so you should not worry about them for now. I suggest you try to understand them in the future, when you have more experience with React.
